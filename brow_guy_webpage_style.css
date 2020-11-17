@@ -1,0 +1,19 @@
+/*
+ brow guy webpage css(style)
+ */
+ 
+p {
+    font-family: Times;
+	font-size: 16px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+#photo-resize-border {
+    max-width: 200px;
+	max-height: 250px;
+}
+
+.blueish-background-color {
+    background-color: #737CA1;
+}
