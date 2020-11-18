@@ -4,7 +4,7 @@
  
  @font-face{
   font-family: "Zimra";
-  src: url("/brow-guy/Zimra-Regular.otf") format("opentype");
+  src: url("Zimra-Regular.otf") format("OpenType");
 }
 
 p {
