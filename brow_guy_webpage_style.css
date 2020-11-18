@@ -3,8 +3,8 @@
  */
  
  @font-face{
-  font-family: "Zimra";
-  src: url("brow-guy/Zimra-Regular.otf") format("opentype");
+  font-family: 'Zimra';
+  src: url("brow-guy/Zimra-Regular.otf") format("otf");
 }
 
 p {
