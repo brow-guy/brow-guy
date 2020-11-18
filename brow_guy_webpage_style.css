@@ -4,7 +4,11 @@
  
  @font-face{
   font-family: "Zimra";
-  src: url("Zimra-Regular.otf") format("OpenType");
+  src: url("Zimra-Regular.otf") format("opentype");
+}
+
+h2{
+	font-family: Zimra;
 }
 
 p {
