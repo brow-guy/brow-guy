@@ -16,10 +16,3 @@ p {
 .blueish-background-color {
     background-color: #737CA1;
 }
-
-.image_container{
-	text-align: center;
-	display: block;
-	max-width: 200px;
-	max-height: 250px;
-}	
