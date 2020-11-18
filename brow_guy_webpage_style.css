@@ -1,9 +1,14 @@
 /*
  brow guy webpage css(style)
  */
+ 
+ @font-face{
+  font-family: "Zimra";
+  src: url(".../brow-guy/brow-guy/Zimra-Regular.otf") format("opentype");
+}
 
 p {
-    font-family: Helvetica;
+    font-family: Zimra;
 	font-size: 16px;
 	text-align: center;
 }
