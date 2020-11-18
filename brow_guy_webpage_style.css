@@ -8,11 +8,9 @@ p {
 	text-align: center;
 }
 
-#image-resize-center {
+#image-resize {
     max-width: 200px;
 	max-height: 250px;
-	text-align: center;
-	display: block;
 }
 
 .blueish-background-color {
