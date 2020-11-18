@@ -2,8 +2,13 @@
  brow guy webpage css(style)
  */
  
+ @font-face{
+  font-family: "Zimra";
+  src: url("Zimra-Regular.ttf") format("truetype");
+}
+
 p {
-    font-family: Zimra;
+    font-family: Times;
 	font-size: 16px;
 	text-align: center;
 }
@@ -16,7 +21,3 @@ p {
 .blueish-background-color {
     background-color: #737CA1;
 }
-
-.centered{
-	width: 100%;
-	text-align: center;
