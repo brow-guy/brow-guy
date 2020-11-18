@@ -16,3 +16,7 @@ p {
 .blueish-background-color {
     background-color: #737CA1;
 }
+
+.centered{
+	width: 100%;
+	text-align: center;
